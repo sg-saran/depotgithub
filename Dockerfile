@@ -1,2 +1,2 @@
 FROM nginx
-RUN apt update && apt install net-tools iproute2 iputils-ping nano vim ssh python 3 -y
+RUN apt update && apt install net-tools iproute2 iputils-ping nano vim ssh python3 -y
